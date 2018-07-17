@@ -4,11 +4,12 @@ Prints the titles, URLs, and locations in CSV format for the second page of job 
 <h3>To install</h3>
 
  <ul>
+  <li>git clone https://github.com/logmannn/indeed_scraping_task</li>
+  <li>cd indeed_scraping_task</li>
   <li>sudo pip install requests</li>
   <li>sudo pip install lxml</li>
   <li>sudo pip install cssselect</li>
   <li>sudo pip install html</li>
-  <li>git clone https://github.com/logmannn/indeed_scraping_task</li>
   <li>python ./besmith_scraping.py</li>
   <li>Open besmith_scraping.csv</li>
 </ul>
